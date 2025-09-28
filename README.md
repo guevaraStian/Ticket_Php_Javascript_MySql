@@ -79,13 +79,6 @@ node -v
 npm -v
 ```
 
-Luego descargamos el repositorio, ingresamos a la carpeta descargada y ejecutamos cualquiera de los siguiente comando
-
-
-```Terminal de comandos
-node main.js
-nodemon main.js
-npm start
-```
+Luego descargamos el repositorio, organizamos la carpeta en un servidor de web y luego ingresamos al index por medio de la ip local y la ruta donde esta el index.php
 
 
