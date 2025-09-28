@@ -21,28 +21,28 @@ roles si se van a ampliar a mas roles con mas caracteristicas.
 ////////////////////////////////
 TIPIFICACION DE PROBLEMAS
 ////////////////////////////////
-Problemas con la biometria
-Problemas con el computador
-Problemas con la impresora
-Problemas en la linea telefonica
-Problemas con el internet
-Problemas con una plataforma
-Porblema con query de excel
-problemas con un certificado
-problemas con el registro de los juegos virtuales
-Problemas con un bono
-Habilitar liquidacion
-Habilitar usuario
-Configurar impresora
-Configurar query de excel
-Instalacion de algo
-Cambio de informacion en un recibo
-Cambiar fecha del lote (puede ser lo mismo que modificiar un recibo)
-Editar informacion de una cuenta 
-Corregir fecha de liquidacion
-Reportar caida de canal
-Reimprimir recibo de caja
-Modificar timbre o GGG
+Problemas con la biometria,
+Problemas con el computador,
+Problemas con la impresora,
+Problemas en la linea telefonica,
+Problemas con el internet,
+Problemas con una plataforma,
+Porblema con query de excel,
+problemas con un certificado,
+problemas con el registro de los juegos virtuales,
+Problemas con un bono,
+Habilitar liquidacion,
+Habilitar usuario,
+Configurar impresora,
+Configurar query de excel,
+Instalacion de algo,
+Cambio de informacion en un recibo,
+Cambiar fecha del lote (puede ser lo mismo que modificiar un recibo),
+Editar informacion de una cuenta ,
+Corregir fecha de liquidacion,
+Reportar caida de canal,
+Reimprimir recibo de caja,
+Modificar timbre o GGG,
 Consulta
 
 
