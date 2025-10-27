@@ -63,8 +63,23 @@ Los pasos para poner en ejecución son los siguientes Ir a la pagina web de Java
 
 ```Pagina web
 https://nodejs.org
-
 ```
+
+
+----------------
+
+Luego de descargar git, Los comandos para acceder al repositorio son los siguientes.
+
+```Terminal de comandos
+git --version
+git init
+git clone https://github.com/guevaraStian/Ticket_Php_Javascript_MySql.git
+cd Ticket_Php_Javascript_MySql
+git push origin master
+```
+---------
+
+
 Luego de descargar el ejecutable, dar click en el .msi y dar click en la opción siguiente
 
 
